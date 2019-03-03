@@ -9,7 +9,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        // dev 第二次添加 
+        // dev 第二次添加 ads
 
 
     }
